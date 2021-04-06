@@ -26,3 +26,8 @@ Learn the basics of git workflow, including adding new files.
 `git push`
 
 6. check the repo on your github account.  Did it work?
+
+![This is a picture of the breakfast I had today](./Pancakes.jpg)
+
+This is an image of a pancake tower that consists of 10 layers of pancakes topped with maple syrup, strawberries and nutela
+
